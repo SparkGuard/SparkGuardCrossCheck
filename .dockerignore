@@ -1,0 +1,12 @@
+# Directories
+.idea
+.git
+bin
+
+# Files
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+
